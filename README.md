@@ -6,10 +6,7 @@ This data leak from PT BALISOFT LINTAS MEDIA and PT TRIGATRA CIPTA SINERGI. This
   <img width="500" height="400" src="/logo/HRIS.jpg"/460/300">
 </p>
 
-# README FIRST
-
-
-if you need DATABASE, PM me<br>
+if you need SOURCE CODE AND DATABASE, PM me<br>
 price is negotiable <br>
 PereiraSamba@protonmail.com
 
