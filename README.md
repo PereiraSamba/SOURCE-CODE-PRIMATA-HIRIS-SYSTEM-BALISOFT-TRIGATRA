@@ -69,9 +69,6 @@ System Tools & Utilities
 - System Reminder and notification for each login users.
 - Parameter setup for carious conditions.
 
-You need this componen for for instalation                                                       
-https://www.mediafire.com/folder/6jmfgm3ufd7sa/all_componen
-
 <img  width="650" height="400" src="/logo/Primata_1.png" alt="Alt text" title="system overview">
 <img  width="650" height="400" src="/logo/Primata_2.png" alt="Alt text" title="system overview">     
 <img  width="650" height="400" src="/logo/Primata_3.png" alt="Alt text" title="system overview">     
