@@ -1,6 +1,6 @@
 # PRIMATA SOURCE CODE FROM PT BALISOFT LINTASMEDIA
 
-This HRIS System special desain for hotel and small manufacture
+This data leak from PT BALISOFT LINTAS MEDIA and PT TRIGATRA CIPTA SINERGI. This HRIS System special desain for hotel and small manufacture
 
 <p align="center">
   <img width="500" height="400" src="/logo/HRIS.jpg"/460/300">
@@ -8,12 +8,6 @@ This HRIS System special desain for hotel and small manufacture
 
 # README FIRST
 
-I sell complete source code and client database as of April 2024
-Because during my time working in this company but was not paid my salary by the company in this company, It doesn't need to be confirmed because it won't confess and if I get my rights then I won't do this either. 
-
-If you are a client of this company, please be careful, especially to the leader, because there is a possibility that your data has been sold to cover the company's operations because it can no longer pay employees and If you are an investor, be careful because you won't make a single penny of profit. I am selling this so that I can obtain my rights which have never been paid by the company. 
-
-If you think I am lying, you can try contacting other employees who were also dismissed without being given their rights.
 
 if you need DATABASE, PM me<br>
 price is negotiable <br>
