@@ -1,6 +1,6 @@
 # HRIS System PRIMATA SOURCE CODE 
 
-This data leak from PT BALISOFT LINTAS MEDIA and PT TRIGATRA CIPTA SINERGI. <br> This HRIS System special desain for hotel and small manufacture
+This data leak from PT BALISOFT LINTAS MEDIA and PT TRIGATRA CIPTA SINERGI. <br> PRIMATA HRIS System special desain for hotel and small manufacture
 <br><br>
 you need componen and runtime before run this source code
 - AccessRuntime2010 SP1 kb2460015
