@@ -14,7 +14,7 @@ you need componen and runtime before run this source code
   <img width="500" height="400" src="/logo/HRIS.jpg"/460/300">
 </p>
 
-if you need FULL SOURCE CODE and DB Client, PM me<br>
+if you need FULL SOURCE CODE and DB Client, you can PM me<br>
 price is negotiable <br>
 PereiraSamba@protonmail.com
 
