@@ -1,4 +1,4 @@
-# HRIS System PRIMATA SOURCE CODE 
+# Human Resource Information System and Payroll System PRIMATA SOURCE CODE 
 
 This data leak from PT BALISOFT LINTAS MEDIA and PT TRIGATRA CIPTA SINERGI. <br> PRIMATA HRIS System special desain for hotel and small manufacture
 <br><br>
