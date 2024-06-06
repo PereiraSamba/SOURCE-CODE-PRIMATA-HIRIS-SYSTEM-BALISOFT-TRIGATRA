@@ -14,11 +14,11 @@ you need componen and runtime before run this source code
   <img width="500" height="400" src="/logo/HRIS.jpg"/460/300">
 </p>
 
-if you need SOURCE CODE AND DATABASE, PM me<br>
+if you need FULL SOURCE CODE and DB Client, PM me<br>
 price is negotiable <br>
 PereiraSamba@protonmail.com
 
-<h2>Human Resources Information System (HRIS) </h2>
+<h2>Human Resources Information and Payroll System PRIMATA </h2>
 Detail System
 
 - Enginee : Microsoft Office Accsess 2010 (VBA)
