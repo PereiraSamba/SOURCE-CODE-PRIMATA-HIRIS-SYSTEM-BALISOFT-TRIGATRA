@@ -78,4 +78,5 @@ System Tools & Utilities
 <img  width="650" height="400" src="/logo/Primata_8.png" alt="Alt text" title="system overview">    
 <img  width="650" height="400" src="/logo/Primata_9.png" alt="Alt text" title="system overview">    
 <img  width="650" height="400" src="/logo/Primata_10.png" alt="Alt text" title="system overview">
+<img  width="650" height="400" src="/logo/DBSS.png" alt="Alt text" title="system overview">
 <img  width="350" height="500" src="/logo/Primata_Database.png" alt="Alt text" title="system overview">   
