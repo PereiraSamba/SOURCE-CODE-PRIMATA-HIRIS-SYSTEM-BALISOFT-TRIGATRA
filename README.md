@@ -1,14 +1,88 @@
-# Human Resource Information System and Payroll System 
+# PRIMATA SYSTEM - Human Resource Information System (HRIS)
 
-Human Resource Information System and Payroll System PRIMATA SOURCE CODE <br> This data leak from PT BALISOFT LINTAS MEDIA and PT TRIGATRA CIPTA SINERGI. <br> PRIMATA HRIS System special desain for hotel and small manufacture
-<br><br>
-you need componen and runtime before run this source code
-- AccessRuntime2010 SP1 kb2460015
-- AccessRuntime2010 SP2 kb2687444
-- AccessRuntime2010 SP0
-- Office Web Component 11
-- Office 2007 kb947318
-- OWC 2007 SP1 kb937961
+## 📌 What is PRIMATA SYSTEM?
+PRIMATA SYSTEM is a Human Resource Information System (HRIS) based on Microsoft Access with Visual Basic for Applications (VBA) by using Microsoft SQL SERVER database. This software is designed as a human resource management system suitable for industries such as Hotels, Factories, and other companies to efficiently manage employee data.
+
+This project aims to share the paid HRIS source code for PrimataHR-G3 with students, beginners, and professionals who want to learn or develop an HR system using VBA Microsoft Access.
+
+---
+
+## 🎯 Key Features
+✅ Employee Management  
+✅ Attendance Tracking  
+✅ Payroll Processing  
+✅ Leave & Permission Management  
+✅ HR Reporting in Excel & PDF format  
+✅ Role-Based Access (Admin & User)  
+
+---
+
+## 🔧 Technologies Used
+- Visual Basic for Applications (VBA)
+- Microsoft Access
+- Excel Integration
+- SQL Query for Data Processing
+
+---
+
+## 🚀 How to Install PRIMATA SYSTEM
+1. Download this repository from GitHub or clone it using:
+   ```bash
+   git clone https://github.com/username/primata-system.git](https://github.com/PereiraSamba/SOURCE-CODE-PRIMATA-HIRIS-SYSTEM-BALISOFT-TRIGATRA.git
+   ```
+2. Open the PRIMATA.accdb file using Microsoft Access
+3. Make sure VBA Macro is enabled in Microsoft Access
+4. Restore DB then Connect to SQL SERVER
+5. Start exploring and modifying according to your needs!
+
+---
+
+## 🏆 Target Users
+PRIMATA SYSTEM is suitable for:
+- Students who want to learn VBA & Microsoft Access
+- Beginners who want to understand HRIS and employee management systems
+- IT & HR Professionals who need a customizable HR system for Hotels, Factories, and other companies
+
+---
+
+## 🔥 Why Choose PRIMATA SYSTEM?
+✔ Beginner-Friendly – Built with VBA Microsoft Access, ideal for newcomers  
+✔ Suitable for Hotels & Factories – Easily adaptable to various industries  
+
+---
+
+## 📂 Folder Structure
+### On Server Computer
+```
+Backup/
+├── DB/
+├── Pickup_log/
+Primata_Server/
+PayrollSystem/
+PCanteen/
+Server_Share/
+├── Document/
+├── employee_attchment/
+├── Permorma_View/
+├── Photo/
+├── Training/
+System_Agent/
+System_Manager/
+```
+
+### On Client Computer
+```
+Primata_Client/
+PayrollSystem/
+PCanteen/
+Server_Share/
+├── Document/
+├── employee_attchment/
+├── Permorma_View/
+├── Photo/
+├── Training/
+```
+
 <br>
 <p align="center">
   <img width="500" height="400" src="/logo/HRIS.jpg"/460/300">
@@ -80,3 +154,9 @@ System Tools & Utilities
 <img  width="650" height="400" src="/logo/Primata_10.png" alt="Alt text" title="system overview">
 <img  width="650" height="400" src="/logo/DBSS.png" alt="Alt text" title="system overview">
 <img  width="350" height="500" src="/logo/Primata_Database.png" alt="Alt text" title="system overview">   
+
+if you need FULL SOURCE CODE and DB Client, you can PM me
+price is negotiable
+## 📞 Contact 
+📧 Email: PereiraSamba@protonmail.com <br>
+🌍 Website: www.virtual.xyz 
